@@ -1,0 +1,6 @@
+{
+  "name": "CSC Digital Seva Kendra",
+  "description": "Comprehensive Common Services Centre (CSC / Jan Seva Kendra) management application for VLEs featuring customer tracking, document guidelines, rate lists, receipts, AEPS ledger, photo/signature resizing, and AI scheme assistant.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
